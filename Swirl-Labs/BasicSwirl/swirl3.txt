@@ -1,3 +1,5 @@
+library("swirl")
+swirl()
 num_vect <- c(0.5, 55, -10, 6)
 tf <- num_vect < 1
 tf
